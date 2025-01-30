@@ -21,7 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicalTrials.UnitTests", "ClinicalTrials.Api.UnitTests\ClinicalTrials.UnitTests.csproj", "{682BD2EE-C938-4D86-87D6-1C8F37C4E99E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicalTrials.UnitTests", "ClinicalTrials.UnitTests\ClinicalTrials.UnitTests.csproj", "{682BD2EE-C938-4D86-87D6-1C8F37C4E99E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicalTrials.IntegrationTests", "ClinicalTrials.IntegrationTests\ClinicalTrials.IntegrationTests.csproj", "{E54F283D-A135-4A0D-8709-0E2BB825F644}"
 EndProject
